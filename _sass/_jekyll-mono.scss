@@ -94,6 +94,10 @@ button.button-primary:focus {
   background-image: url(/images/avatar.jpg);
 	background-repeat: no-repeat;
 	background-size: 830px;
+	
+height: 890px;
+background-position-x: 620px;
+background-position-y: 320px;
 }
 
 .intro-header .post-heading {
@@ -242,7 +246,7 @@ button.button-primary:focus {
 }
 
 .ch-img-1 { 
-	background-image: url(#{$avatar});
+	background-color:#a73b3b;
 }
 
 .ch-info h3 {
