@@ -90,7 +90,10 @@ button.button-primary:focus {
 
 .intro-header {
   border-top: 5px solid white;
-  background-color:$mono-color;
+  background-color:$white;
+  background-image: url(/images/avatar.jpg);
+	background-repeat: no-repeat;
+	background-size: 830px;
 }
 
 .intro-header .post-heading {
