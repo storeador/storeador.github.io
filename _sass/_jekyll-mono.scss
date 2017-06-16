@@ -89,15 +89,16 @@ button.button-primary:focus {
 */
 
 .intro-header {
-  border-top: 5px solid white;
-  background-color:$white;
-  background-image: url(/images/avatar.jpg);
+    border-top: 5px solid white;
+    background-color:$white;
+    background-image: url(/images/avatar.jpg);
 	background-repeat: no-repeat;
-	background-size: 730px;
+	background-size: 540px;
 
 	height: 890px;
 	background-position-x: center;
-	background-position-y: 240px;
+	background-position-y: 128px;
+
 }
 
 .intro-header .post-heading {
@@ -128,7 +129,7 @@ button.button-primary:focus {
 }
 
 .space-small {
-    padding: 0px 0 25px;
+    padding: 0px 0 0px;
 }
 
 .space-extra-small {
