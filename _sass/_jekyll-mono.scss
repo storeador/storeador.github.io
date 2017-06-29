@@ -88,16 +88,45 @@ button.button-primary:focus {
     *Header
 */
 
-.intro-header {
-  border-top: 5px solid white;
-  background-color:$white;
+#logo 
+{
+	background-color:$white;
   background-image: url(/images/avatar.jpg);
 	background-repeat: no-repeat;
 	background-size: 730px;
-
-	height: 890px;
+	height: 670px;
 	background-position-x: center;
-	background-position-y: 240px;
+	background-position-y: 75px;
+
+	@include mobile
+	{
+		background-position-y:130px;
+		background-size: 460px;
+		height: 500px;
+	}
+
+}
+
+#logo2
+{
+	background-color:$white;
+  background-image: url(/images/avatar.jpg);
+	background-repeat: no-repeat;
+	background-size: 300px;
+	height: 245px;
+	background-position-x: center;
+
+	@include mobile
+	{
+		background-size: 200px;
+		height: 200px;
+	}
+
+}
+
+.intro-header {
+  border-top: 5px solid white;
+  
 }
 
 .intro-header .post-heading {
