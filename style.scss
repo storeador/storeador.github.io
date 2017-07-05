@@ -152,8 +152,12 @@ img {
 //
 
 .wrapper-masthead {
+<<<<<<< HEAD
   margin-bottom: 20px;
   margin-top:310px;
+=======
+  margin-bottom: 10px;
+>>>>>>> b2639b0bd17c402297fead014dc9e7cf4a8dfbec
 }
 
 .masthead {
@@ -204,7 +208,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $white;
+  color: #000;
   font-size: 16px;
 
   @include mobile {
@@ -238,7 +242,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $white;
+      color: $red;
     }
   }
 }
