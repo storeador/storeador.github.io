@@ -95,13 +95,13 @@ button.button-primary:focus {
   background-image: url(/images/avatar.jpg);
 	background-repeat: no-repeat;
 	background-size: 730px;
-	height: 670px;
+	height: 550px;
 	background-position-x: center;
-	background-position-y: 75px;
+	background-position-y: 112px;
 
 	@include mobile
 	{
-		background-position-y:130px;
+		background-position-y:153px;
 		background-size: 460px;
 		height: 500px;
 	}
@@ -115,13 +115,13 @@ button.button-primary:focus {
   background-image: url(/images/avatar.jpg);
 	background-repeat: no-repeat;
 	background-size: 300px;
-	height: 245px;
+	height: 185px;
 	background-position-x: center;
 
 	@include mobile
 	{
 		background-size: 200px;
-		height: 200px;
+		height: 120px;
 	}
 
 }
