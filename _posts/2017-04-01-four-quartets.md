@@ -4,6 +4,8 @@ title: Episode 3 - Four Quartets
 author: Author Name
 ---
 
+Dust in the air suspended / Marks the place where a story ended. Fortunately the end is also the beginning. Discuss!
+
 Jason and Kimberley turn their laser-sharp focus to T.S. Eliot's masterpiece, "The Four Quartets". 
 Emotional reactions are the order of the day, as the discussion turns to perceptions of time, the inevitable end of all things, train metaphors that resonate and delight, and what the hell that bird was actually doing in the garden. 
 

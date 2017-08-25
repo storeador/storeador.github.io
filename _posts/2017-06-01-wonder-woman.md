@@ -3,6 +3,7 @@ layout: post
 title: Episode 5 - Wonder Woman
 author: Author Name
 ---
+Da daa da daa daa daa daaa daaaaaa! (That's the Wonder Woman theme song, obv)
 
 Wonder Woman- In this episode, Jason and Kimberley discuss "Wonder Woman"! Kimberley describes crying during the battle scenes (BECAUSE SHE'S WAITED FOREVER FOR THIS MOVIE), fangirls over Patty Jenkins, and expresses astonishment that Jason's experience with WW was the Linda Carter version. For his part, Jason tries to locate Wonder Woman in his internal taxonomy of (mostly male) superheroes, and realizes (surprise!) she doesn't quite have an analog. Strong, smart, full of feeling and compassion, and a leader... Which is good, because right now she's carrying the whole DC film franchise on her back.
 

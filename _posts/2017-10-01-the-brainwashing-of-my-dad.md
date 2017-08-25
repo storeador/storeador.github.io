@@ -4,10 +4,9 @@ title: Episode 9 - The Brainwashing of My Dad
 author: Author Name
 ---
 
-Jason and Kimberley turn their laser-sharp focus to T.S. Eliot's masterpiece, "The Four Quartets". 
-Emotional reactions are the order of the day, as the discussion turns to perceptions of time, the inevitable end of all things, train metaphors that resonate and delight, and what the hell that bird was actually doing in the garden. 
+Kimberley and Jason decide to start a rival Fox News station that shows news about adorable foxes 24/7. 
 
-By the end of the episode, your hosts are more confused than when they began their discussion, and also slightly depressed. You're welcome. 
+This documentary shows how Fox News and Right Wing Talk Radio posess the mind of the director's otherwise mild-mannered and kind father, turning him into a scowling, vitriol-spewing distortion of his former self. Like many of the interviewees in the movie, this story is all to familiar to Kimberley, and all too painful. Jason hypothesizes about how to oppose the lumbering war machine of Right Wing Media. Both hosts end up in the fetal position, holding small talismen of Mr. Universe from Serenity. 
 
 ----- 
 
