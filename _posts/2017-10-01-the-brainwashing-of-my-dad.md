@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 3 - Four Quartets
+title: Episode 9 - The Brainwashing of My Dad
 author: Author Name
 ---
 
