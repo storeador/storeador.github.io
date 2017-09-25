@@ -4,5 +4,5 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-### [RSS Feed](https://storyadore.podbean.com/feed/)
+### [RSS Feed](https://storeador.podbean.com/feed/)
 
