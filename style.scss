@@ -75,13 +75,15 @@ a {
   color: $link-color;
   text-decoration: none;
 	cursor: pointer;
+  transition: all 0.5s;
   &:hover, &:active {
     color: darken($link-color,20);
   }
-  transition: all 0.5s;
+
 }
 
 div.entry a {
+  transition: all 0.5s;
   border-bottom:1px dotted $lightOrange;
   &:hover {
     border-bottom:none;
