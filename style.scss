@@ -18,9 +18,19 @@ html {
 }
 
 body {
-  background: $white;
+  
+  background-color: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+
+}
+
+body.homepage {
+  background: linear-gradient(to bottom, transparent, white 650px), url('/images/bullfighting-background.jpg');
+  background-size: contain;
+  background-color: $white;
+  background-repeat: no-repeat;
+  background-position-y:-140px;
 }
 
 .container {
@@ -28,8 +38,12 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+
 }
 
+.intro-header .container {
+  opacity: .95;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -83,10 +97,23 @@ a {
 }
 
 div.entry a {
-  transition: all 0.5s;
-  border-bottom:1px dotted $lightOrange;
-  &:hover {
-    border-bottom:none;
+  transition: all 0.3s;
+  position:relative;
+  &:before {
+    content:'';
+    position:absolute;
+    bottom:0;
+    left:0;
+    height:5px;
+    width:100%;
+    border-bottom:1px dotted $lightOrange;
+    transform:scaleX(1);
+    transition: all 0.3s;
+  }
+  
+  &:hover:before {
+    transform:scaleX(.7); 
+    border-bottom:2px dotted $lightOrange;
   }
 }
 
