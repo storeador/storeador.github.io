@@ -333,5 +333,19 @@ footer {
   text-align: center;
 }
 
+.beige-box
+{
+  padding: 20px;
+  background-color: #f3ece1;
+  margin-top: 40px;
+  h4 {
+    margin-top:0px;
+  }
+}
+
+.available
+{
+  font-size:10px;
+}
 @import "highlights";
 @import "jekyll-mono";
