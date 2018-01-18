@@ -91,15 +91,14 @@ button.button-primary:focus {
 
 #logo 
 {
-  	background-color: $white;
-  	background-image: url(/images/avatar.jpg);
+  	background:transparent;
+  	background-image: url(/images/avatar.png);
 	background-repeat: no-repeat;
 	background-size: 730px;
 	height: 550px;
 	background-position-x: center;
 	background-position-y: 112px;
 	padding-top:10px;
-	box-shadow: 0 0 10px 20px white;
 
 	@include mobile
 	{
