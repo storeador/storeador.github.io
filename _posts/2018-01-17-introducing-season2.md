@@ -4,7 +4,7 @@ title: Introducing Season Two!
 author: Author Name
 ---
 
-We're back! Again! We are happy to bring you Season Two of Storeador, wherein we discuss Hamilton, Captain Fantastic, The Swimmer (short story), The Brainwashing of My Dad, and Moonlight. 
+We're back! Again! We are happy to bring you Season Two of sToreador, wherein we discuss Hamilton, Captain Fantastic, The Swimmer (short story), The Brainwashing of My Dad, and Moonlight. 
 
 Tune in with us every two weeks for a new episode. And please leave us a comment (and if you are so moved, a Facebook-style affirmation) on our Facebook page. We encourage you to be part of the conversation; we want to hear how our podcast and these stories landed with you.
 
